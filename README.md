@@ -35,7 +35,7 @@
 
 - 🔖[Veeblue's Blog](https://blog.veeblue.com) 
 
-[![Blog](https://img.shields.io/badge/Blog-blog.veeblue.com-blue?logo=blog&style=flat-square)](https://dreamhunter.blog)
+[![Blog](https://img.shields.io/badge/Blog-blog.veeblue.com-blue?logo=blog&style=flat-square)](https://blog.veeblue.com)
 [![Email](https://img.shields.io/badge/Email-yee@veeblue.com-red?logo=email&style=flat-square)](mailto:yee@veeblue.com)
 
 ---
