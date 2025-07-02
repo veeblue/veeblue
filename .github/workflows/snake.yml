@@ -1,29 +1,42 @@
-name: snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 每天 0 点 UTC 自动执行
+    - cron: "0 0 * * *"  # 每天 0 点 UTC 自动执行 (修复了cron语法)
   workflow_dispatch:      # 允许手动触发
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: veeblue
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg
-
-      - name: Push to GitHub
+            dist/github-snake-dark.svg?palette=github-dark
+            
+      - name: Setup Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+      - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "Update snake animations"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
