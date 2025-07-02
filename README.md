@@ -36,12 +36,13 @@
 </picture>
 
 ![Veeblue's GitHub stats](https://github-readme-stats.vercel.app/api?username=veeblue&show_icons=true&theme=dark&hide_border=true)
+
 🗒️ [Veeblue's Blog](https://blog.veeblue.com) 
 
 [![Blog](https://img.shields.io/badge/Blog-blog.veeblue.com-9966ff?logo=blog&style=flat-square)](https://blog.veeblue.com)
 [![Email](https://img.shields.io/badge/Email-yee@veeblue.com-31a8ff??logo=email&style=flat-square)](mailto:yee@veeblue.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=veeblue&color=brightgreen&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/veeblue?style=flat-square&color=blue)
-![GitHub stars](https://img.shields.io/github/stars/veeblue?style=flat-square&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=veeblue&color=cc33ff&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/veeblue?style=flat-square&color=6666ff)
+![GitHub stars](https://img.shields.io/github/stars/veeblue?style=flat-square&color=ffff00)
 <!-- 最后更新: 2025年07月02日  https://zhuanlan.zhihu.com/p/741677397 -->
