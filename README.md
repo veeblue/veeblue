@@ -37,8 +37,7 @@
 
 ![Veeblue's GitHub stats](https://github-readme-stats.vercel.app/api?username=veeblue&show_icons=true&theme=dark&hide_border=true)
 
-🗒️ [Veeblue's Blog](https://blog.veeblue.com) 
-
+<!-- 🗒️ [Veeblue's Blog](https://blog.veeblue.com) -->
 [![Blog](https://img.shields.io/badge/Blog-blog.veeblue.com-9966ff?logo=blog)](https://blog.veeblue.com)
 [![Email](https://img.shields.io/badge/Email-yee@veeblue.com-31a8ff?logo=email)](mailto:yee@veeblue.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=veeblue&color=cc33ff&label=Profile+Views)
