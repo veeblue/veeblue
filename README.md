@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-  
 </p>
 
 <p>
@@ -30,14 +29,13 @@
   <img src="https://img.shields.io/badge/Markdown-2596BE?logo=markdown&logoColor=white"/>
 </p>
 
-<picture>
+<picture >
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/veeblue/veeblue/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/veeblue/veeblue/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/veeblue/veeblue/output/github-contribution-grid-snake.svg">
 </picture>
 
 ![Veeblue's GitHub stats](https://github-readme-stats.vercel.app/api?username=veeblue&show_icons=true&theme=dark&hide_border=true)
-
 🗒️ [Veeblue's Blog](https://blog.veeblue.com) 
 
 [![Blog](https://img.shields.io/badge/Blog-blog.veeblue.com-9966ff?logo=blog&style=flat-square)](https://blog.veeblue.com)
