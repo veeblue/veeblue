@@ -12,7 +12,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.com/veeblue/veeblue.git }}
+          github_user_name: veeblue
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg
