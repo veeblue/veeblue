@@ -40,14 +40,10 @@
 
 🗒️ [Veeblue's Blog](https://blog.veeblue.com) 
 
-[![Blog](https://img.shields.io/badge/Blog-blog.veeblue.com-blue?logo=blog&style=flat-square)](https://blog.veeblue.com)
-[![Email](https://img.shields.io/badge/Email-yee@veeblue.com-red?logo=email&style=flat-square)](mailto:yee@veeblue.com)
+[![Blog](https://img.shields.io/badge/Blog-blog.veeblue.com-9966ff?logo=blog&style=flat-square)](https://blog.veeblue.com)
+[![Email](https://img.shields.io/badge/Email-yee@veeblue.com-31a8ff??logo=email&style=flat-square)](mailto:yee@veeblue.com)
 
-<div align="left">
-  
 ![Profile Views](https://komarev.com/ghpvc/?username=veeblue&color=brightgreen&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/veeblue?style=flat-square&color=blue)
 ![GitHub stars](https://img.shields.io/github/stars/veeblue?style=flat-square&color=yellow)
-
-</div>
 <!-- 最后更新: 2025年07月02日  https://zhuanlan.zhihu.com/p/741677397 -->
