@@ -3,8 +3,8 @@
 <p>
   <img src="https://img.shields.io/badge/macOS-Sequoia-9966ff?logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-Ubuntu-ff6600?logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-11-blue?logo=windows11&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IDE-Visual Studio Code-007ACC?logo=visual-studio-code"/>
+  <img src="https://img.shields.io/badge/Windows-11-blue?logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IDE-Visual Studio Code-007ACC?logo=visualstudiocode"/>
   <img src="https://img.shields.io/badge/IDE-PyCharm-31a8ff?logo=pycharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Editor-Cursor-333333?logo=data:image/svg+xml;base64,..."/>
 </p>
@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
 </p>
 
 <p>
@@ -23,7 +24,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-269539?logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-336699?logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Markdown-2596BE?logo=markdown&logoColor=white"/>
 </p>
 
 <picture>
