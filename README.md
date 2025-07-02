@@ -26,13 +26,17 @@
   <img src="https://img.shields.io/badge/Markdown-336699?logo=markdown&logoColor=white"/>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/veeblue/veeblue/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/veeblue/veeblue/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/veeblue/veeblue/output/github-contribution-grid-snake.svg">
+</picture>
+
 ![Veeblue's GitHub stats](https://github-readme-stats.vercel.app/api?username=veeblue&show_icons=true&theme=dark&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=veeblue&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)
+<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=veeblue&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true) -->
 
-![GitHub Snake](https://raw.githubusercontent.com/veeblue/veeblue/output/github-contribution-grid-snake.svg)
-
-🔖[Veeblue's Blog](https://blog.veeblue.com) 
+🗒️ [Veeblue's Blog](https://blog.veeblue.com) 
 
 [![Blog](https://img.shields.io/badge/Blog-blog.veeblue.com-blue?logo=blog&style=flat-square)](https://blog.veeblue.com)
 [![Email](https://img.shields.io/badge/Email-yee@veeblue.com-red?logo=email&style=flat-square)](mailto:yee@veeblue.com)
@@ -40,5 +44,7 @@
 ---
 
 ⭐️ From [veeblue](https://github.com/veeblue)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=veeblue&left_color=green&right_color=red)
 
 <!-- 最后更新: 2025年07月02日 -->
