@@ -35,7 +35,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/veeblue/veeblue/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Veeblue's GitHub stats](https://github-readme-stats.vercel.app/api?username=veeblue&show_icons=true&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=veeblue&show_icons=true&theme=dark&hide_border=true)
 
 <!-- 🗒️ [Veeblue's Blog](https://blog.veeblue.com) -->
 [![Blog](https://img.shields.io/badge/Blog-blog.veeblue.com-9966ff?logo=blog)](https://blog.veeblue.com)
