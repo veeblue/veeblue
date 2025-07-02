@@ -15,15 +15,18 @@
   <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+  
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/LangChain-00cc00?logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-7F52FF?logo=langgraph&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-269539?logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Markdown-2596BE?logo=markdown&logoColor=white"/>
 </p>
 
