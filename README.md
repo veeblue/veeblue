@@ -34,15 +34,18 @@
 
 ![Veeblue's GitHub stats](https://github-readme-stats.vercel.app/api?username=veeblue&show_icons=true&theme=dark&hide_border=true)
 
-<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=veeblue&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true) -->
-
 🗒️ [Veeblue's Blog](https://blog.veeblue.com) 
 
 [![Blog](https://img.shields.io/badge/Blog-blog.veeblue.com-blue?logo=blog&style=flat-square)](https://blog.veeblue.com)
 [![Email](https://img.shields.io/badge/Email-yee@veeblue.com-red?logo=email&style=flat-square)](mailto:yee@veeblue.com)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=veeblue&left_color=green&right_color=red)
 
----
+<div align="left">
+
+![Profile Views](https://komarev.com/ghpvc/?username=veeblue&color=brightgreen&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/veeblue?style=flat-square&color=blue)
+![GitHub stars](https://img.shields.io/github/stars/veeblue?style=flat-square&color=yellow)
+
+</div>
 
 ⭐️ From [veeblue](https://github.com/veeblue)
 
