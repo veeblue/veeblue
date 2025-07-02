@@ -40,11 +40,12 @@
 
 [![Blog](https://img.shields.io/badge/Blog-blog.veeblue.com-blue?logo=blog&style=flat-square)](https://blog.veeblue.com)
 [![Email](https://img.shields.io/badge/Email-yee@veeblue.com-red?logo=email&style=flat-square)](mailto:yee@veeblue.com)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=veeblue&left_color=green&right_color=red)
 
 ---
 
 ⭐️ From [veeblue](https://github.com/veeblue)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=veeblue&left_color=green&right_color=red)
+
 
 <!-- 最后更新: 2025年07月02日  https://zhuanlan.zhihu.com/p/741677397 -->
